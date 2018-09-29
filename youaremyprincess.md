@@ -1,1 +1,1 @@
-![image]https://github.com/iamGaryLiao/L-Z/blob/master/image.jpeg
+![image](https://github.com/iamGaryLiao/L-Z/blob/master/image.jpeg)
